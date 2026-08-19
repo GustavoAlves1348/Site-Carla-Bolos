@@ -1,0 +1,5 @@
+name = "site-carla-bolos"
+compatibility_date = "2026-08-19"
+
+[assets]
+directory = "./"
