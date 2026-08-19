@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# ETAPA DE PUBLICACAO: trocar seudominio.com.br pelo endereco real do site
+Sitemap: https://seudominio.com.br/sitemap.xml
